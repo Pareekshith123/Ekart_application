@@ -1,0 +1,15 @@
+.Search-bar{
+    border-radius: 5px;
+    width: 500px;
+    margin-left: 250px;
+}
+.v1{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#ec0c04, #edeee5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.macoo{
+
+     background-image: linear-gradient(180deg, red, yellow);
+}
